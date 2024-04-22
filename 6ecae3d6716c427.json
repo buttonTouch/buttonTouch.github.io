@@ -2,7 +2,7 @@
     "channels": [
         {
             "name": "VIVO",
-            "is_under_review": true,
+            "is_under_review": false,
             "is_need_login":true
         },
         {

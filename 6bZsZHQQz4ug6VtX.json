@@ -1,11 +1,1 @@
-{
-    "name": "掘金小达人",
-    "id": "6bZsZHQQz4ug6VtX",
-    "vivo_underReview": false,
-    "OPPO_underReview": false,
-    "xiaomi_underReview": false,
-    "huawei_underReview": false,
-    "4399_underReview": false,
-    "233_underReview": false,
-    "meizu_underReview": false
-}
+{ "name": "掘金小达人", "id": "6bZsZHQQz4ug6VtX", "Honor": true, "233": true, "OPPO": true, "VIVO": false, "XiaoMi": true, "MeiZu": true, "4399": true, "HuaWei": true }

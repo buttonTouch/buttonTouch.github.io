@@ -1,1 +1,11 @@
-{ "channels": [ { "name": "VIVO", "is_under_review": false, "is_need_login":true }, { "name": "OPPO", "is_under_review": true, "is_need_login":true }, { "name": "XIAOMI", "is_under_review": true, "is_need_login":true }, { "name": "HUAWEI", "is_under_review": true, "is_need_login":true }, { "name": "4399", "is_under_review": true, "is_need_login":true }, { "name": "233", "is_under_review": true, "is_need_login":true } ] }
+{
+    "name": "掘金小达人",
+    "id": "6bZsZHQQz4ug6VtX",
+    "vivo_underReview": false,
+    "OPPO_underReview": false,
+    "xiaomi_underReview": false,
+    "huawei_underReview": false,
+    "4399_underReview": false,
+    "233_underReview": false,
+    "meizu_underReview": false
+}
